@@ -17,3 +17,8 @@ DOMAIN: FRONT END DEVELOPMENT
 MOURATIONS: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
+
+OUTPUT:
+
+<img width="937" height="682" alt="Image" src="https://github.com/user-attachments/assets/7d219d15-22c9-4bfb-b123-0626783674c0" />
+<img width="1910" height="963" alt="Image" src="https://github.com/user-attachments/assets/ba9b6d26-115f-4ab8-a9d2-2761e34e8f45" />
